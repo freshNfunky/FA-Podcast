@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{469A1F47-F5C0-26B2-9023-30A7936E2E8A}") = "FA-Podcast", "Assembly-CSharp.csproj", "{D184582F-11BD-EC3D-A3A4-F823FEE906BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D184582F-11BD-EC3D-A3A4-F823FEE906BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D184582F-11BD-EC3D-A3A4-F823FEE906BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D184582F-11BD-EC3D-A3A4-F823FEE906BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D184582F-11BD-EC3D-A3A4-F823FEE906BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
